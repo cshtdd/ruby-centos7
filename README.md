@@ -1,2 +1,4 @@
-# ruby-centos7
-Docker image for Ruby development on Centos 7
+# ruby-docker-images
+Docker images for Ruby development on different OS
+
+
